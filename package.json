@@ -1,0 +1,30 @@
+{
+  "name": "react-cool-timer",
+  "version": "1.0.1",
+  "description": "React timer countdown hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1mehdifaraji/react-cool-timer.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "nextjs",
+    "android",
+    "ios",
+    "mobile",
+    "countdown",
+    "timer",
+    "hook"
+  ],
+  "author": "Mehdi Faraji <mahdifarajideveloper@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1mehdifaraji/react-cool-timer/issues"
+  },
+  "homepage": "https://github.com/1mehdifaraji/react-cool-timer#readme"
+}
