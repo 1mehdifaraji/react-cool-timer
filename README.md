@@ -5,7 +5,7 @@ React timer countdown hook with easy to use API .
 ### Installation
 
 ```sh
-$ npm install --save react-cool-timer
+npm install --save react-cool-timer
 ```
 
 or
